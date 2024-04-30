@@ -14,7 +14,7 @@
 
 
 
-- 📫 How to reach me **shanmukha.s.royal@gmail.com**
+- 📫 How to reach me **mannurusowjanya27@gmail.com**
 
 
 
@@ -53,7 +53,7 @@
 
 <div align="left">
 <a href="https://github.com/Chittu13">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chittu13&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjanya2527&theme=gotham" height="180em" />
 </div>
 
 
