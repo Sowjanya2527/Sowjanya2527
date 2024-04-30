@@ -9,7 +9,7 @@
    
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sowjanya2527&label=Profile%20views&color=0e75b6&style=flat" alt="Sowjanya2527" /> </p>
 
 
 
@@ -46,7 +46,7 @@
      
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=gotham" />
+  <img src="https://streak-stats.demolab.com?user=Sowjanya2527&theme=gotham" />
 </p>
 
 
