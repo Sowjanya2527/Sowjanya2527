@@ -101,10 +101,10 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
-         <img src="Pics/nmap.png" width="60" height="60"  />
+      <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+         <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/javascript.svg" width="55" height="55"  />
       </a>
-      <br>Nmap
+      <br>JavaScript
     </td>
       </tr>
   <tr>
