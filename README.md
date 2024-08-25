@@ -52,7 +52,7 @@
 
 
 <div align="left">
-<a href="https://github.com/Chittu13">
+<a href="https://github.com/Sowjanya2527">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjanya2527&theme=gotham" height="180em" />
 </div>
 
@@ -64,7 +64,6 @@
 
 
 
-<h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
 <h2 align="center">💻Tools and programming languages💻</h2>
 <div align=center>
@@ -143,23 +142,9 @@
         <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/github1.svg" width="55" height="55"&theme=algolia&border_radius=5 />
       </a>
       <br>GitHub
-    </td>
-
-    
-   
+    </td> 
   </tr>
-
 </table>
 </div>
 
 <br/>
-
-
-
-<img src="Pics/final.svg" />
-
-
-
-
-
-
