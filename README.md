@@ -16,11 +16,12 @@
 
 - 📫 How to reach me **mannurusowjanya27@gmail.com**
 
-
+<br>
 <div align="left">
 <a href="https://github.com/Sowjanya2527">
-<p align="center"> <img align="center" src="https://streak-stats.demolab.com?user=Sowjanya2527&theme=gotham" height="650" width="650" /> </p>
+<p align="center"> <img align="center" src="https://streak-stats.demolab.com?user=Sowjanya2527&theme=gotham" height="180em" /> </p>
 </div>
+<br>
 <div align="left">
 <a href="https://github.com/Sowjanya2527">
 <p align="center"> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjanya2527&theme=gotham" height="180em" /> </p>
