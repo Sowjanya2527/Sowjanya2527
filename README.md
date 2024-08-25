@@ -66,21 +66,21 @@
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
-<h2 align="center">💻Tools, languages, and other things that I Learing💻</h2>
+<h2 align="center">💻Tools and programming languages\💻</h2>
 <div align=center>
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/python.svg" width="48" height="48"&theme=algolia&border_radius=5  />
+      <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/Power-BI.png" width="55" height="55"&theme=algolia&border_radius=5  />
       </a>
-      <br>Python
+      <br>Power BI
     </td>
     <td align="center" width="96">
-      <a href="https://riptutorial.com/cmd" >
-        <img src="Pics/new/command-line.png" width="48" height="48" target="_blank" rel="noopener noreferrer" />
+      <a href="https://www.tableau.com/" >
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/tab.jpeg" width="55" height="55" target="_blank" rel="noopener noreferrer" />
       </a>
-      <br>CMD
+      <br>Tableau
     </td>
     <td align="center" width="96">
       <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
