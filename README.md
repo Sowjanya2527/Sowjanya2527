@@ -108,17 +108,23 @@
     </td>
       </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/c%2B%2B.svg" width="48" height="48"  />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/html5.svg" width="48" height="48"  />
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/html5.svg" width="55" height="55"  />
       </a>
       <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/css3.svg" width="55" height="55"  />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/mysql-original-wordmark.svg" width="53" height="53"  />
+      </a>
+      <br>MySQL
     </td>
     <td align="center" width="96"> 
       <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
@@ -131,12 +137,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
-      </a>
-      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
