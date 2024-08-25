@@ -66,7 +66,7 @@
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
-<h2 align="center">💻Tools and programming languages\💻</h2>
+<h2 align="center">💻Tools and programming languages💻</h2>
 <div align=center>
 <table>
   <tr>
@@ -84,21 +84,21 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/c.svg" width="48" height="48"  />
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/c.svg" width="55" height="55"  />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80"  />
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/python.svg" width="55" height="55"  />
       </a>
-      <br>Linux
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/wireshark.jpeg" width="48" height="48" alt="TypeScript" />
+      <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/java-original.svg" width="55" height="55" alt="TypeScript" />
       </a>
-      <br>Wireshark
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
