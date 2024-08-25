@@ -83,10 +83,10 @@
       <br>Tableau
     </td>
     <td align="center" width="96">
-      <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/full_colored_dark.svg" width="48" height="48"  />
+      <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/c.svg" width="48" height="48"  />
       </a>
-      <br>Bash
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
