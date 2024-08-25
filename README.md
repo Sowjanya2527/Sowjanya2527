@@ -17,43 +17,13 @@
 - 📫 How to reach me **mannurusowjanya27@gmail.com**
 
 
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-<br><br>
-<img align="left" src = "Pics/sys.gif" width = 70px height=70px>
-<h1><strong> My Status</strong></h1>
-
-
-<br><br>
-
-
-   
-
-
-   
-     
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Sowjanya2527&theme=gotham" />
-</p>
-
-
-
 <div align="left">
 <a href="https://github.com/Sowjanya2527">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjanya2527&theme=gotham" height="180em" />
+<p align="center"> <img align="center" src="https://streak-stats.demolab.com?user=Sowjanya2527&theme=gotham" height="650" width="650" /> </p>
+</div>
+<div align="left">
+<a href="https://github.com/Sowjanya2527">
+<p align="center"> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjanya2527&theme=gotham" height="180em" /> </p>
 </div>
 
 
