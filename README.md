@@ -134,15 +134,15 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/git-scm-icon.svg" width="55" height="55"  />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/metasploit.jpeg" width="48" height="48"&theme=algolia&border_radius=5 />
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Sowjanya2527/Sowjanya2527/blob/main/Pics/github1.svg" width="55" height="55"&theme=algolia&border_radius=5 />
       </a>
-      <br>Metasploit
+      <br>GitHub
     </td>
 
     
